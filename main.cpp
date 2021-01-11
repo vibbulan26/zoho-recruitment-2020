@@ -12,7 +12,9 @@ using namespace std;
 
 int main()
 {
+    // Variable Initilaize
     int n, i, j;
+    // Input get
     cout<<"Enter Row Limit:";
     cin>>n;
     for(i = n; i >= 1; i--) {
